@@ -1,0 +1,17 @@
+{
+	"source": {
+		"id": "ANTHEM",
+		"referenceNumber": "5a52bf11-43d4-4823-8fa4-ed9878a681e0"
+	},
+	"events": [
+		{
+			"type": "auth_exchange",
+			"metadata": [
+				{
+					"key": "payload",
+					"value": "SVNBKjAwKi"
+				}
+			]
+		}
+	]
+}
